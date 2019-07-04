@@ -14,4 +14,6 @@
 class Permission < ApplicationRecord
   belongs_to :role, optional: true
   belongs_to :user, optional: true
+
+  enum permission_type: [:read, :write]
 end
