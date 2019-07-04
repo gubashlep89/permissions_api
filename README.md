@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hello! Tthis is my test tusk about permissons. I use 'nasted_attributes_for' method to add permissions to user and roles. I also use HABTM references to add roles in user. All custom methods I put in users_controller. I can explain more about this module if it is necessary. Thanks for waching!
